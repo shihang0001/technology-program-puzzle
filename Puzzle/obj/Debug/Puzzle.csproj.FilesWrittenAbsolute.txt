@@ -1,0 +1,8 @@
+/Users/shihang/Desktop/大三资料（2015.7.3）/人工智能/Puzzle/Puzzle/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/shihang/Desktop/大三资料（2015.7.3）/人工智能/Puzzle/Puzzle/obj/Debug/Puzzle.Form1.resources
+/Users/shihang/Desktop/大三资料（2015.7.3）/人工智能/Puzzle/Puzzle/obj/Debug/Puzzle.Properties.Resources.resources
+/Users/shihang/Desktop/大三资料（2015.7.3）/人工智能/Puzzle/Puzzle/bin/Debug/Puzzle.exe.config
+/Users/shihang/Desktop/大三资料（2015.7.3）/人工智能/Puzzle/Puzzle/bin/Debug/Puzzle.exe.mdb
+/Users/shihang/Desktop/大三资料（2015.7.3）/人工智能/Puzzle/Puzzle/bin/Debug/Puzzle.exe
+/Users/shihang/Desktop/大三资料（2015.7.3）/人工智能/Puzzle/Puzzle/obj/Debug/Puzzle.exe
+/Users/shihang/Desktop/大三资料（2015.7.3）/人工智能/Puzzle/Puzzle/obj/Debug/Puzzle.exe.mdb
